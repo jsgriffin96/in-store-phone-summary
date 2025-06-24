@@ -9,8 +9,6 @@ format:
     theme: [default, theme.scss]
     slide-number: true
     link-external-newwindow: true
-    toc: true
-    toc-depth: 1
     code-link: true
     embed-resources: true
 ---
