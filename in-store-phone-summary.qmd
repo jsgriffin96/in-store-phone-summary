@@ -18,8 +18,6 @@ format:
 
 > Grewal, Dhruv, Carl-Philip Ahlbom, Lauren Beitelspacher, Stephanie M. Noble, and Jens Nordfält (2018), “**In-Store Mobile Phone Use and Customer Shopping Behavior: Evidence from the Field,**” *Journal of Marketing*, 82 (4), 102–126.
 
-
-
 ------------------------------------------------------------------------
 
 ## Presentation Road‑Map
@@ -111,11 +109,11 @@ format:
 
 > **H4.** **Time in store, shelf attention,** and **loop diversion** jointly mediate the positive relationship between phone use and purchases.
 
----
+------------------------------------------------------------------------
 
 # Study 1 — Naturalistic Field Study
 
----
+------------------------------------------------------------------------
 
 ### Study Design
 
@@ -123,7 +121,7 @@ format:
 -   **Method:** **Eye‑tracking field study** — portable Tobii Pro glasses record visual field & gaze.\
 -   **Purpose:** Capture *natural* shopper behavior; maximize ecological validity vs. lab scenarios.
 
----
+------------------------------------------------------------------------
 
 ### Sampling & Data Collection
 
@@ -169,13 +167,13 @@ format:
 -   **Stimulus set:** The live store environment (thousands of SKUs).\
 -   **Equipment:** Tobii Pro Glasses; Figure 1 illustrates visual field & fixations.
 
+![](images/clipboard-4125585488.png)Figure 1
+
 ------------------------------------------------------------------------
 
 ### Mediation Model
 
-
-![](images/clipboard-2380255990.png)
-Models Tested in Study 1
+![](images/clipboard-2380255990.png) Models Tested in Study 1
 
 ------------------------------------------------------------------------
 
@@ -192,139 +190,153 @@ Models Tested in Study 1
 ## Study 2 — Field Experiment
 
 ### Purpose & Design
-- **Goal 1:** Replicate Study 1 findings with fresh sample.  
-- **Goal 2:** Eliminate **self‑selection bias** via **random assignment** to phone‑use vs no‑use condition.  
-- **Goal 3:** Directly measure **distraction** to test limited‑attention theory (4‑item, α =.90).  
 
----
+-   **Goal 1:** Replicate Study 1 findings with fresh sample.\
+-   **Goal 2:** Eliminate **self‑selection bias** via **random assignment** to phone‑use vs no‑use condition.\
+-   **Goal 3:** Directly measure **distraction** to test limited‑attention theory (4‑item, α =.90).
+
+------------------------------------------------------------------------
 
 ### Sampling & Random Assignment
-- **Setting:** Two suburban grocery stores (same chain).  
-- **Recruitment:** Every **5th** passer‑by at a predefined entrance point; scratch‑off lottery ticket incentive.  
-- **Eligibility:** Must carry a mobile phone (4 shoppers excluded).  
-- **Sample:** 121 recruited → 117 usable (24 h of eye‑tracking video).  
-- **Randomization:** Assigned to **Phone‑Allowed** (n = 53) or **Phone‑Prohibited** (n = 64) groups.
 
----
+-   **Setting:** Two suburban grocery stores (same chain).\
+-   **Recruitment:** Every **5th** passer‑by at a predefined entrance point; scratch‑off lottery ticket incentive.\
+-   **Eligibility:** Must carry a mobile phone (4 shoppers excluded).\
+-   **Sample:** 121 recruited → 117 usable (24 h of eye‑tracking video).\
+-   **Randomization:** Assigned to **Phone‑Allowed** (n = 53) or **Phone‑Prohibited** (n = 64) groups.
+
+------------------------------------------------------------------------
 
 ### Procedure
-1. Consent, demographic pre‑survey.  
-2. Fit Tobii Pro glasses.  
-3. **Condition instructions:**  
-   - *Use group:* “Please use your smartphone as you normally would—email, browse, play, etc.”  
-   - *No‑use group:* “Please refrain from **all** phone use during this trip.”  
-4. Shopper completes trip.  
-5. Collect glasses & receipt.  
-6. Post‑trip survey: **distraction scale**, satisfaction, demographics.
 
----
+1.  Consent, demographic pre‑survey.\
+2.  Fit Tobii Pro glasses.\
+3.  **Condition instructions:**
+    -   *Use group:* “Please use your smartphone as you normally would—email, browse, play, etc.”\
+    -   *No‑use group:* “Please refrain from **all** phone use during this trip.”\
+4.  Shopper completes trip.\
+5.  Collect glasses & receipt.\
+6.  Post‑trip survey: **distraction scale**, satisfaction, demographics.
+
+------------------------------------------------------------------------
 
 ### Sample Characteristics
-- **n = 117** | Age 19‑80 (M = 42.9).  
-- **Gender:** 52.1 % female.  
-- No age, gender, or household‑size differences across conditions.
 
----
+-   **n = 117** \| Age 19‑80 (M = 42.9).\
+-   **Gender:** 52.1 % female.\
+-   No age, gender, or household‑size differences across conditions.
+
+------------------------------------------------------------------------
 
 ### Measures
+
 | Role | Variable | Operationalization |
-|------|----------|---------------------|
+|----------------|------------------|--------------------------------------|
 | **IV** | Phone condition | Random assignment; compliance 97 % |
 | **Mediator 1** | Distraction | 4‑item scale (e.g., “I felt distracted…”) |
 | **Mediator 2‑4** | Time in store / Shelf attention / Loop diversion | Same coding as Study 1 |
 | **DV** | Purchases | Basket value (SEK) + item count |
 | **Controls** | Satisfaction (trip & service) | 1‑5 scales |
 
----
+------------------------------------------------------------------------
 
 ### Manipulation Check & Compliance
-- **Non‑use group:** 96.9 % obeyed (2 urgent calls).  
-- **Use group:** 96.2 % used phones (~0.74 min; 4.8 % of trip).  
-- Randomization + high compliance ⇒ strong internal validity.
 
----
+-   **Non‑use group:** 96.9 % obeyed (2 urgent calls).\
+-   **Use group:** 96.2 % used phones (\~0.74 min; 4.8 % of trip).\
+-   Randomization + high compliance ⇒ strong internal validity.
+
+------------------------------------------------------------------------
 
 ### Analysis Model
-- **Serial mediation:** Phone condition → **Distraction** → (Time | Fixations | Diversion) → Purchases.  
-- PROCESS Models 4 & 6; 100 000 bootstrap iterations.
 
----
+-   **Serial mediation:** Phone condition → **Distraction** → (Time \| Fixations \| Diversion) → Purchases.\
+-   PROCESS Models 4 & 6; 100 000 bootstrap iterations.
+
+------------------------------------------------------------------------
 
 ### Key Results
-| Path | β / Diff | p / CI | Supported |
-|------|----------|--------|-----------|
-| Phone → Distraction | +0.85 | <.001 | ✔︎ |
-| Phone → Time | +4.45 min | .03 | ✔︎ (H1a) |
-| Phone → Fixations | +25.84 | .001 | ✔︎ (H2a) |
-| Phone → Diversion | +0.28 | .07† | marginal |
-| Mediations (H4a–c) | Indirect CIs exclude 0 | see text | ✔︎ / † |
-| Purchases diff | +129 SEK | .10 | marginal but positive |
+
+| Path                | β / Diff               | p / CI   | Supported             |
+|---------------------|------------------------|----------|-----------------------|
+| Phone → Distraction | +0.85                  | \<.001   | ✔︎                     |
+| Phone → Time        | +4.45 min              | .03      | ✔︎ (H1a)               |
+| Phone → Fixations   | +25.84                 | .001     | ✔︎ (H2a)               |
+| Phone → Diversion   | +0.28                  | .07†     | marginal              |
+| Mediations (H4a–c)  | Indirect CIs exclude 0 | see text | ✔︎ / †                 |
+| Purchases diff      | +129 SEK               | .10      | marginal but positive |
 
 *Note:* Age significantly moderates all three mediator paths; older shoppers show stronger effects.
 
-
----
+------------------------------------------------------------------------
 
 ### Summary
-- Experimental replication confirms **causal** impact of phone use on distraction‑driven behaviors and spending.  
-- Distraction is the **first‑link mechanism**; behavioral changes transmit the effect.  
-- Age, department, and phone‑activity type act as **boundary conditions**.
 
----
+-   Experimental replication confirms **causal** impact of phone use on distraction‑driven behaviors and spending.\
+-   Distraction is the **first‑link mechanism**; behavioral changes transmit the effect.\
+-   Age, department, and phone‑activity type act as **boundary conditions**.
+
+------------------------------------------------------------------------
 
 ## Results Summary by Hypothesis
+
 | Hypothesis | Study 1 | Study 2 | Verdict |
-|------------|---------|---------|---------|
-| **H1a** Time ↑ | **✔︎** +4.6 min *(p<.001)* | **✔︎** +4.45 min *(p=.03)* | Supported |
-| **H1b** Time → Spend | **✔︎** β = 21.76 *(p<.001)* | **✔︎** β = 31.45 *(p<.001)* | Supported |
+|---------------------|-----------------|-----------------|-----------------|
+| **H1a** Time ↑ | **✔︎** +4.6 min *(p\<.001)* | **✔︎** +4.45 min *(p=.03)* | Supported |
+| **H1b** Time → Spend | **✔︎** β = 21.76 *(p\<.001)* | **✔︎** β = 31.45 *(p\<.001)* | Supported |
 | **H2a** Fixations ↑ | **✔︎** +17 % *(p=.02)* | **✔︎** +25.84 *(p=.001)* | Supported |
-| **H2b** Fixations → Spend | **✔︎** β = 3.97 *(p<.001)* | **✔︎** β = 7.13 *(p<.001)* | Supported |
-| **H3a** Diversion ↑ | **✔︎** +0.97 *(p<.001)* | † +0.28 *(p=.07)* | Partial |
-| **H3b** Diversion → Spend | **✔︎** β = 69.41 *(p<.001)* | **✔︎** β = 238.39 *(p<.001)* | Supported |
+| **H2b** Fixations → Spend | **✔︎** β = 3.97 *(p\<.001)* | **✔︎** β = 7.13 *(p\<.001)* | Supported |
+| **H3a** Diversion ↑ | **✔︎** +0.97 *(p\<.001)* | † +0.28 *(p=.07)* | Partial |
+| **H3b** Diversion → Spend | **✔︎** β = 69.41 *(p\<.001)* | **✔︎** β = 238.39 *(p\<.001)* | Supported |
 | **H4** Mediations | All three paths sig. | Two sig., diversion marginal | Largely Supported |
 
-*(† = marginal, p < .10)*
+*(† = marginal, p \< .10)*
 
----
+------------------------------------------------------------------------
 
 ## Theoretical Implications
-- **Extends limited‑attention theory**: Shows distraction can *increase* rather than impair goal performance when the task is open‑ended (shopping).  
-- **Links micro‑level gaze to macro sales**: Connects eye‑tracking metrics to receipt data, bridging consumer psychology and retail analytics.  
-- **Aging & distraction**: Demonstrates greater susceptibility among shoppers > 32 yrs, enriching lifespan cognition research.  
-- **Generalizable distraction mechanism**: Parallel effects found for shopping‑with‑companions, hinting at a broader attentional conflict framework.
 
----
+-   **Extends limited‑attention theory**: Shows distraction can *increase* rather than impair goal performance when the task is open‑ended (shopping).\
+-   **Links micro‑level gaze to macro sales**: Connects eye‑tracking metrics to receipt data, bridging consumer psychology and retail analytics.\
+-   **Aging & distraction**: Demonstrates greater susceptibility among shoppers \> 32 yrs, enriching lifespan cognition research.\
+-   **Generalizable distraction mechanism**: Parallel effects found for shopping‑with‑companions, hinting at a broader attentional conflict framework.
+
+------------------------------------------------------------------------
 
 ## Integrated Discussion
-- **Distraction loop:** Phone use → cognitive split → linger, look, wander → **more items bought**.  
-- **Net‑positive experience:** Satisfaction unchanged (Study 1) or only marginally lower (Study 2); benefits outweigh any friction.  
-- **Spatial nuance:** Fresh‑food departments gain most; checkout losses confirm *mobile blinders* boundary.
 
----
+-   **Distraction loop:** Phone use → cognitive split → linger, look, wander → **more items bought**.\
+-   **Net‑positive experience:** Satisfaction unchanged (Study 1) or only marginally lower (Study 2); benefits outweigh any friction.\
+-   **Spatial nuance:** Fresh‑food departments gain most; checkout losses confirm *mobile blinders* boundary.
+
+------------------------------------------------------------------------
 
 ## Managerial Implications
-- Provide *free Wi‑Fi* & charging stations.  
-- Embed QR codes / digital shelf labels near high‑margin SKUs.  
-- Target **older shoppers** with phone‑friendly services (voice search).  
-- Reframe showrooming: in‑store phone use can **lift** spend.
 
----
+-   Provide *free Wi‑Fi* & charging stations.\
+-   Embed QR codes / digital shelf labels near high‑margin SKUs.\
+-   Target **older shoppers** with phone‑friendly services (voice search).\
+-   Reframe showrooming: in‑store phone use can **lift** spend.
+
+------------------------------------------------------------------------
 
 ## Limitations & Future Research
-- Grocery context; test **department stores** & **electronics**.  
-- Manual coding limits eye‑tracking granularity.  
-- Explore *content* of phone use (e.g., social vs price‑check).  
-- Investigate motionless contexts (checkout, deli counter).
 
----
+-   Grocery context; test **department stores** & **electronics**.\
+-   Manual coding limits eye‑tracking granularity.\
+-   Explore *content* of phone use (e.g., social vs price‑check).\
+-   Investigate motionless contexts (checkout, deli counter).
+
+------------------------------------------------------------------------
 
 ## Class Discussion Prompts
-1. Should retailers ever **limit** phone use? Why / why not?  
-2. How might **AI partner apps** evolve these dynamics?  
-3. Where could *“bad friction”* still exist in this study’s design?  
 
+1.  Should retailers ever **limit** phone use? Why / why not?\
+2.  How might **AI partner apps** evolve these dynamics?\
+3.  Where could *“bad friction”* still exist in this study’s design?
 
-# Thank You  
+# Thank You
+
 *Questions & Comments?*
 
-[Download PDF](images/Grewal et al. - 2018 - In-Store Mobile Phone Use and Customer Shopping Behavior Evidence from the Field.pdf)
+[Download PDF](images/Grewal%20et%20al.%20-%202018%20-%20In-Store%20Mobile%20Phone%20Use%20and%20Customer%20Shopping%20Behavior%20Evidence%20from%20the%20Field.pdf)
