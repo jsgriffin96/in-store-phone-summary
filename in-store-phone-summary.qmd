@@ -11,6 +11,7 @@ format:
     link-external-newwindow: true
     code-link: true
     embed-resources: true
+    scrollable: true
 ---
 
 ### In‑Store Mobile Phone Use & Consumer Shopping Behavior: Evidence from the Field (Grewal *et al.*, 2018)
@@ -113,6 +114,8 @@ format:
 ---
 
 # Study 1 — Naturalistic Field Study
+
+---
 
 ### Study Design
 
