@@ -120,7 +120,7 @@ format:
 -   **Method:** **Eye‑tracking field study** — portable Tobii Pro glasses record visual field & gaze.\
 -   **Purpose:** Capture *natural* shopper behavior; maximize ecological validity vs. lab scenarios.
 
-------------------------------------------------------------------------
+---
 
 ### Sampling & Data Collection
 
