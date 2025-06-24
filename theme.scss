@@ -45,22 +45,28 @@ $font-body: Arial, sans-serif;
   }
 
   h1 {
+    font-size: 2.0em;
     color: $cpp-green !important;
   }
 
   h2 {
+    font-size: 1.75em;
     color: $cpp-gold !important;
   }
 
   h3 {
+    font-size: 1.5em;
     color: $teal !important;
   }
   
   h4 {
+    font-size: 1.25em;
     color: $rose !important;
   }
 
   p {
+    font-size: 0.9em;
+    line-height: 1.1;
     color: $black !important;
   }
 
